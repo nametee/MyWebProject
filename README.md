@@ -17,9 +17,9 @@
 3. Command Git at working folder
 ```
 >git init
+>git remote add origin https://github.com/nametee/MyWebProject.git
 >git add index.html
 >git commit -m "commit files"
->git remote add origin https://github.com/nametee/MyWebProject.git
 >git push -u origin master
 >git add README.md
 >git commit -m "commit files"
